@@ -1,0 +1,13 @@
+package:
+    type:           library
+    name:           minii-helpers
+    namespace:      yii\helpers
+    title:          minii Helpers
+    keywords:       minii, helpers
+
+composer.json:
+    name:           minii/helpers
+
+require:
+    hiqdev/hidev-hiqdev: "*"
+    hiqdev/hidev-php:    "*"
