@@ -4,6 +4,7 @@ minii Helpers
 [![Latest Stable Version](https://poser.pugx.org/hiqdev/minii-helpers/v/stable)](//packagist.org/packages/hiqdev/minii-helpers)
 [![Total Downloads](https://poser.pugx.org/hiqdev/minii-helpers/downloads)](//packagist.org/packages/hiqdev/minii-helpers)
 [![Build Status](https://img.shields.io/travis/hiqdev/minii-helpers.svg)](http://travis-ci.org/hiqdev/minii-helpers)
+[![Dependency Status](https://www.versioneye.com/php/hiqdev:minii-helpers/dev-master/badge.svg)](https://www.versioneye.com/php/hiqdev:minii-helpers/dev-master)
 
 ## Installation
 
