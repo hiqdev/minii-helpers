@@ -41,6 +41,9 @@
             "homepage": "http://hiqdev.com/"
         }
     ],
+    "require": {
+        "minii/core": "*"
+    },
     "autoload": {
         "psr-4": {
             "yii\\helpers\\": "src"
