@@ -1,5 +1,5 @@
-hiqdev/minii-helpers commits history
-------------------------------------
+minii/helpers commits history
+-----------------------------
 
 ## Under development
 

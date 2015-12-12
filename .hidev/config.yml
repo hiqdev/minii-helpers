@@ -1,13 +1,16 @@
+github:
+    name:           hiqdev/minii-helpers
+
 package:
     type:           library
-    name:           minii-helpers
+    name:           helpers
     namespace:      yii\helpers
     title:          minii Helpers
     keywords:       minii, helpers
-
-composer.json:
-    name:           minii/helpers
+    description:    |
+        [minii](https://github.com/hiqdev/minii-core) is mini version of [Yii2](http://yiiframework.com/), supposed to be fully compatible.
+        This package provides yii\helpers.
 
 require:
-    hiqdev/hidev-hiqdev: "*"
-    hiqdev/hidev-php:    "*"
+    minii/hidev-vendor: "*"
+    hiqdev/hidev-php:   "*"

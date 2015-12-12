@@ -1,5 +1,5 @@
-hiqdev/minii-helpers changelog
-------------------------------
+minii/helpers changelog
+-----------------------
 
 ## Under development
 
