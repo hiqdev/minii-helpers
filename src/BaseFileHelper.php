@@ -58,7 +58,7 @@ class BaseFileHelper
         foreach (explode($ds, $path) as $part) {
             if ($part === '..' && !empty($parts) && end($parts) !== '..') {
                 array_pop($parts);
-            } elseif ($part === '.' || $part === '' && !empty($parts)) {
+            } elseif ($part === '.' && !empty($parts)) {
                 continue;
             } else {
                 $parts[] = $part;
