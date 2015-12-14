@@ -3,6 +3,8 @@ minii/helpers commits history
 
 ## Under development
 
+- Fixed phar compatibility
+    - c8b042b 2015-12-14 fixed phar compatibility (sol@hiqdev.com)
 
 ## 0.0.1 2015-12-12
 
